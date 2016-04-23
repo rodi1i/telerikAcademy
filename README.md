@@ -1,1 +1,3 @@
 # telerikAcademy
+
+repo configuration
